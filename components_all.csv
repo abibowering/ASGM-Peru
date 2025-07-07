@@ -1,0 +1,32 @@
+H1,H1: ASGM miners (low mechanized),"$, legal status, health"
+H2,H2: ASGM miners (highly mechanized),
+H3,H3: Lowland Indigenous Peoples,"$, health"
+H4,H4: Highland Indigenous Peoples,"$, health"
+H5,H5: Other community members,"$, health"
+H6,H6: Hg supply chain participants,legal status
+H7,H7: Gold processors,$
+H8,H8: Gold buyers,$
+H9,H9: Faraway population,health
+H10,H10: Certified gold buyers,
+T1,T1: Interoceanic highway,
+T2,T2: Lower level mechanized mining equipment,
+T3,T3: Higher level mechanized mining equipment,
+T4,T4: Ore (gold-containing),
+T5,T5: Mercury in ASGM,
+T6,T6: Large-scale gold processing equipment,
+T7,T7: Amalgam,
+T8,T8: Field-based amalgam separation technology,
+T9,T9: Shop-based amalgam processing equipment,
+T10,T10: Mercury capture devices,
+T11,T11: Gold (commercial),
+T12,T12: Field-based mercury-free separation technology,
+T13,T13: Certified Gold,
+E1,E1: Madre de Dios River,
+E2,E2: Mining sites in the mining corridor,Hg concentration
+E3,E3: Mining sites in La Pampa,
+E4,E4: Mining sites in High Amazon,Hg concentration
+E5,E5: Ecosystems in and near mining sites,Hg concentration
+E6,E6: Faraway ecosystems,Hg concentration
+E7,E7: Atmosphere,Hg concentration
+,,
+INCLUDE I and K components! ,,
